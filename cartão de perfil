@@ -14,13 +14,13 @@ ProfileCard ()
 
 <View style={styles.card}> 
 
-<Image source={{ uri: 'https://via.placeholder.com/100' }} 
+<Image source={{ uri: 'https://images.app.goo.gl/o2LymS8j8w6r6HRG7/100' }} 
 
 style={styles.profileImage} /> 
 
-<Text style={styles.name}>Fernanda Salvatore</Text> <Text style={styles.description}> 
+<Text style={styles.name}>Damon Salvatore</Text> <Text style={styles.description}> 
 
-Desenvolvedora de software apaixonada por tecnologia e inovação. 
+Vampiro engraçadinho (as vezes idiota) e muito charmoso.
 
 </Text> </View>
 ); 
